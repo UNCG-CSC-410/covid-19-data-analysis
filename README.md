@@ -17,7 +17,7 @@
 
 ## Introduction
 
-This Project is part of a Computer Science course *(CSC 410, Big Data and Machine Learning)* at University of North Carolina at Greensboro. 
+This project is part of a Computer Science course *(CSC 410, Big Data and Machine Learning)* at University of North Carolina at Greensboro. 
 
 ## Technologies
 	
