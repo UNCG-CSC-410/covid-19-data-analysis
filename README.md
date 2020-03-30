@@ -41,7 +41,7 @@ The goal is to apply recent advances in machine learning and data science to gen
 ## Contributors
 
 * Team Members:
-    * [Sultan Al Bogami](https://github.com/sultanalbogami])
+    * [Sultan Al Bogami](https://github.com/sultanalbogami)
     * [Wahab Ehsan](https://github.com/WahabEhsan)
 
 
