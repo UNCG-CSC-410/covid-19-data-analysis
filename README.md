@@ -23,8 +23,10 @@ This project is part of a Computer Science course *(CSC 410, Big Data and Machin
 	
 * Python v3.7
 * Anaconda v3.4.3
+* Jupyter Notebook v6.0.1
 * Numpy v1.8.2
 * Pandas v0.25.1
+
 
 ## Data Source
 
