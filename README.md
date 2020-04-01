@@ -36,6 +36,7 @@ Data files are collected from the following organizations:
 
 * [The New York Times](https://github.com/nytimes/covid-19-data)
 * [NextStrain](https://github.com/nextstrain/ncov)
+* [CoronaVirus COVID19 API](https://covid19api.com/#details)
 
 
 ## Goals
