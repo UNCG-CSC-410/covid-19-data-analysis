@@ -22,6 +22,10 @@ This project is part of a Computer Science course *(CSC 410, Big Data and Machin
 ## Technologies
 	
 * Python v3.7
+* GeoPandas v0.3.0
+* Pyshp v1.2.10
+* Plotly-Geo v1.0.0
+* Shapely v1.6.3
 * Anaconda v3.4.3
 * Jupyter Notebook v6.0.1
 * Numpy v1.8.2
@@ -34,6 +38,7 @@ Data files are collected from the following organizations:
 
 * [The New York Times](https://github.com/nytimes/covid-19-data)
 * [NextStrain](https://github.com/nextstrain/ncov)
+* [CoronaVirus COVID19 API](https://covid19api.com/#details)
 
 
 ## Goals
