@@ -22,6 +22,10 @@ This project is part of a Computer Science course *(CSC 410, Big Data and Machin
 ## Technologies
 	
 * Python v3.7
+* GeoPandas v0.3.0
+* Pyshp v1.2.10
+* Plotly-Geo v1.0.0
+* Shapely v1.6.3
 * Anaconda v3.4.3
 * Numpy v1.8.2
 * Pandas v0.25.1
